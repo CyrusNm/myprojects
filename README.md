@@ -1,1 +1,1 @@
-# Diabetes Prediction using SUpport Vector Machine(SVM)
+### Diabetes Prediction using Support Vector Machine(SVM)
